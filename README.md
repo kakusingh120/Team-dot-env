@@ -12,13 +12,10 @@ A sleek, responsive landing page built for **Team Dotenv**, powered by elegant a
 
 | Technology     | Purpose                            |
 |----------------|------------------------------------|
-| **EJS**        | Server-side templating              |
 | **TailwindCSS**| Utility-first CSS framework         |
 | **Shery.js**   | Micro-interactions and magnet effects |
 | **GSAP**       | Scroll-based and timeline animations |
 | **Locomotive** | Smooth scrolling and scroll effects |
-| **Node.js**    | Backend server                     |
-| **Express.js** | Web framework for Node.js          |
 
 ---
 
