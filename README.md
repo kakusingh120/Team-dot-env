@@ -27,8 +27,7 @@ A sleek, responsive landing page built for **Team Dotenv**, powered by elegant a
 - 🖱️ **Smooth scroll** experience with Locomotive Scroll
 - 🧠 Creative motion with GSAP animations
 - 📱 **Fully responsive** on all screen sizes
-- 🖥️ Server-side rendering using **EJS**
-- 🚀 Runs locally on `http://localhost:8080`
+- 🚀 Runs locally on `http://localhost:3000`
 
 ---
 
