@@ -12,7 +12,7 @@ A sleek, responsive landing page built for **Team Dotenv**, powered by elegant a
 ---
 
 ## 🌐 Live Demo on github page
-> 🔗 [Deployed Link](https://team-dotenv.onrender.com)
+> 🔗 [Deployed Link](team-dot-env.vercel.app)
 
 ---
 
