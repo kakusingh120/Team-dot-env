@@ -6,7 +6,7 @@ A sleek, responsive landing page built for **Team Dotenv**, powered by elegant a
 ---
 
 ## 🌐 Live Demo on vercel
-> 🔗 [Deployed Link](team-dot-env.vercel.app)
+> 🔗   team-dot-env.vercel.app
 
 ---
 
