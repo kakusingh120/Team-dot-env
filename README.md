@@ -2,7 +2,11 @@
 
 A sleek, responsive landing page built for **Team Dotenv**, powered by elegant animations, micro-interactions, and smooth scrolling. This project uses **Shery.js**, **GSAP**, **Locomotive Scroll**, **TailwindCSS**, and is rendered server-side using **EJS**. Designed to work beautifully on both desktop and mobile devices.
 
-## 🌐 Live Demo on vercel:  team-dot-env.vercel.app
+
+## 🌐 Live Demo  
+> 🔗 [Deployed Link](https://team-dot-env.vercel.app)
+
+---
 
 ## 🔧 Tech Stack
 
